@@ -16,3 +16,4 @@ conatiner.appendChild(overText);
 bgImage.src = `img/${chosenImage}`;
 bgImage.id = "bgImage";
 document.body.appendChild(bgImage);
+// document.html.appendChild(bgImage);
